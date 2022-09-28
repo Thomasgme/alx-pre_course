@@ -1,2 +1,1 @@
-My second directory
-updated 
+echo 
